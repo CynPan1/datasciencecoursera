@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
-
-a repo to demonstrate my GitHub account and ability to create a repo
+repo to demonstrate my GitHub account and ability to create a repo.
+ I hope this is sufficient!
